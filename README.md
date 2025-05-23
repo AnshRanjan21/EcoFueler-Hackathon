@@ -1,6 +1,6 @@
 # Smart Office Light Automator
 
-Welcome to the **Smart Office Light Automator**, an innovative solution designed to optimize office lighting and reduce electricity usage. This application was developed as part of the **EcoFuelers Hackathon** by a team of three passionate developers: **Sarthak, Ansh, and Akash**. Our goal is to minimize electricity consumption by dynamically controlling office light brightness based on daylight sensor readings.
+Welcome to the **Smart Office Light Automator**, an innovative solution designed to optimize office lighting and reduce electricity usage. This application was developed as part of the **EcoFuelers Hackathon** by team Killing Data consisting of three passionate developers: **Sarthak, Ansh, and Akash**. Our goal is to minimize electricity consumption by dynamically controlling office light brightness based on daylight sensor readings.
 
 ---
 
